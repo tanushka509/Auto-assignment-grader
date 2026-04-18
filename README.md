@@ -8,6 +8,8 @@ Supports multiple programming languages (based on runtime availability)
 Generates per-student grading results and summaries
 Simple CLI-based workflow with configurable setup
 Easily extendable for additional features
+
+
 🛠️ Tech Stack
 Python (core grading logic)
 File-based test case and submission handling
@@ -17,6 +19,8 @@ Add test cases (input/output files) in the tests/ folder
 Configure grading rules if required
 Run the autograder script
 View generated results for each submission
+
+
 ▶️ Usage
 python autograder.py
 📂 Project Structure

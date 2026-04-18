@@ -4,9 +4,13 @@ A lightweight and configurable automatic grading system for programming assignme
 
 🚀Features
 Automated evaluation using input/output test cases
+
 Supports multiple programming languages (based on runtime availability)
+
 Generates per-student grading results and summaries
+
 Simple CLI-based workflow with configurable setup
+
 Easily extendable for additional features
 
 

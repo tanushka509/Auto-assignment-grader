@@ -1,8 +1,8 @@
-📘 Assignment AutoGrader
+📘** Assignment AutoGrader**
 
 A lightweight and configurable automatic grading system for programming assignments. The system evaluates student submissions against predefined test cases and generates structured results, reducing manual grading effort.
 
-🚀 Features
+🚀 **Features**
 Automated evaluation using input/output test cases
 Supports multiple programming languages (based on runtime availability)
 Generates per-student grading results and summaries
